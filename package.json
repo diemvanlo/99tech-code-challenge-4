@@ -1,0 +1,12 @@
+{
+  "name": "99tech-code-challenge-4",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/sum_to_n.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
